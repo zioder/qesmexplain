@@ -1,5 +1,5 @@
 streamlit
 gTTS
 moviepy
-google-generativeai==0.0.1
+google-generativeai==0.8.4
 manim

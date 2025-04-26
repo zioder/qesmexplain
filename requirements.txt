@@ -2,3 +2,4 @@ streamlit
 gtts
 moviepy
 google-generativeai
+manim
